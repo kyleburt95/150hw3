@@ -20,11 +20,11 @@ Gomoku is a popular game played on the Go board, following much simpler rules.
 
 Grading
 -----
-- Regular Commits (1 points)
+- Regular Commits (1 point)
 
 At least one nontrivial commit by Feb-17 11:59pm. 
 
-- Documentation (1 points)
+- Documentation (1 point)
 
 Comment your code generously. 
 
