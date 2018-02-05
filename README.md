@@ -3,6 +3,8 @@ Assignment 3: Gomoku with Monte Carlo Tree Search
 
 Your task is to implement the MCTS method for playing Gomoku. The base game engine is from [here](https://github.com/HackerSir/PygameTutorials/tree/master/Lesson04/Gomoku). 
 
+Important: Your commits should be using the Github Classroom link (in a private repository), not directly cloning from the open repositiory. 
+
 Due date
 -----
 Feb-24 11:59pm Pacific Time. Extra credits for earlier submission (see below). 
@@ -20,7 +22,7 @@ Grading
 -----
 - Regular Commits (1 points)
 
-You should at least one nontrivial commit by Feb-17 11:59pm. 
+At least one nontrivial commit by Feb-17 11:59pm. 
 
 - Documentation (1 points)
 
@@ -45,4 +47,5 @@ Extra credits (up to 4 points)
 Note
 ------
 - Make sure to start early. It requires more work than Assignment 2. 
+- Check the lecture slides for details on MCTS. This [survey article](http://mcts.ai/pubs/mcts-survey-master.pdf) also has all you need to complete the assignment. 
 - At the deadline, Github will automatically save the last commit as your submission. Make sure to commit your full solutions before that, and also your name and PID in the README.md file.  
